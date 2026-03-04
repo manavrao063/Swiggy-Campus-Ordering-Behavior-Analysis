@@ -80,15 +80,15 @@ These initiatives can help increase engagement, AOV, and repeat orders.
 
 
 
-**Tools Used
-**
-Excel
-Power BI
-Survey-based behavioral analysis
-Data-driven insight generation
+**Tools Used**
+
+- Excel      
+- Power BI
+- Survey-based behavioral analysis
+- Data-driven insight generation
 
 
 
-**Project Outcome
-**
+**Project Outcome**
+
 The project demonstrates how user behavior analysis can translate into practical growth and product strategies for food delivery platforms.
