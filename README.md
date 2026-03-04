@@ -5,6 +5,8 @@ This project analyzes food ordering behavior among college students to understan
 
 The analysis focuses on identifying behavioral insights and proposing growth and product strategies to improve the user experience and increase platform engagement.
 
+
+
 **Problem Statement**
 
 Campus users form a significant portion of food delivery demand, but ordering behavior often varies due to factors like pricing sensitivity, late-night demand, and group ordering habits.
@@ -13,6 +15,8 @@ The objective of this project was to analyze student ordering behavior and ident
 
 - Food delivery platforms like Swiggy rely heavily on student demand in university campuses. However, user engagement, ordering frequency, and group ordering behavior vary widely.
 
+
+
 Analyze campus food-ordering behavior to identify:
 
 - User pain points in ordering
@@ -20,6 +24,8 @@ Analyze campus food-ordering behavior to identify:
 - Opportunities to increase engagement and order value.
 
 - Collected and analyzed 1,050+ student survey responses and interviews.
+
+
 
 Identified behavioral patterns such as:
 
@@ -33,6 +39,9 @@ Identified behavioral patterns such as:
 
 - Designed potential growth experiments and product improvements based on the findings.
 
+
+
+
 **Result**
 
 - The analysis identified opportunities to:
@@ -45,6 +54,9 @@ Identified behavioral patterns such as:
 
 These insights can support growth strategies and product decisions for campus-focused expansion.
 
+
+
+
 **Key Insights**
 
 - Students show high price sensitivity, making discounts and group offers effective.
@@ -52,6 +64,9 @@ These insights can support growth strategies and product decisions for campus-fo
 - Late-night demand represents a strong ordering window.
 
 - Group ordering friction reduces potential order value.
+
+
+
 
 **Proposed Solutions**
 
@@ -63,12 +78,16 @@ These insights can support growth strategies and product decisions for campus-fo
 
 These initiatives can help increase engagement, AOV, and repeat orders.
 
+
+
 **Tools Used
 **
 Excel
 Power BI
 Survey-based behavioral analysis
 Data-driven insight generation
+
+
 
 **Project Outcome
 **
